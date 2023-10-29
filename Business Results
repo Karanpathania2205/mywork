@@ -1,0 +1,23 @@
+Business Results
+During the course of this year, I have worked on various projects and interacted with various stakeholders. 
+I have worked in Narrative Generation during the course of my time in Finance Reporting Infrastructure (FRI). Under Narrative Generation I have worked towards automating the commentary system for various clients like CIB Treasury and FFIEC009 which saved approximately 500 hours of business time.
+I have worked towards various tech-enhancement under Narrative Generation mainly
+	Onboarded new report-schedules such as Cibt Monthly Average , Monthly Spot , Quarterly Average  , Weekly Average , Yearly Average , Yearly Spot and Year to Date Spot.
+	Queried Dremio and regularly interacted with the CIBT AD team to test the newly onboarded report-schedules for the correct COB dates. 
+	Worked on enhancing the NG functionality by working in the Sub-Process Log Table .
+	Worked in checking the parent dataset consumption for FFIEC009 and marking NG passed or failed accordingly from the EPS data received.
+	Made Splunk Dashboards for Production and UAT environment which can capture the NG Usage Statistics. These dashboards are constantly used to check NG completion and also at the time of any production related issue.
+	Worked towards fixing the FFIEC-009 query for Sch-C PtI , Sch-C Pt2 by adding the sector name column.
+	Worked in the NG Retrigger Functionality by creating the NG Retrigger Button UI on the spider screen.
+	I have worked towards enhancing the NG tech functionality and also worked towards various Narrative Generation related Production Issues that have been raised.
+I also worked in Redesigning the LRI Metrics Portal during my internship at Liquidity Risk Infrastructure (LRI). Under this initiative I worked mainly as the Front-End Developer in redesigning the outdated LRI Metrics Portal according to the business needs and we completed the project by delivering the product in the production environment ready to be used by the business.
+	Under this project I worked in React and Typescript. I also worked in various JPMC internal UI development toolkits like Tuxedo, Spectrum and Jpmc UI Toolkit.
+	I worked in creating interactive Dashboards which can display the report statistics using various charts and graphs using Highcharts.js.
+	I also worked towards displaying the reports in a tabular format, finalising the report, downloading the newly made report in excel and applying various filter to those reports using AG Grid.
+	I worked towards enhancing the AG Grid features by working on features where user can choose the columns that they want to be seen and can filter out the rest using Blotter.
+	I also worked in Spring boot to understand the legacy back-end code to analyse all the API calls that are made and configured the payload related information’s that are passed .
+	We enhanced the user experience significantly by the new functionalities and also reduced the loading time of the reports by storing the data in a local cache.
+	Reduced the number of API calls being made by storing the data in local cache and thus enhancing user experience by reducing the loading time.
+
+Apart from all this now I have been shifted to FRI on AWS initiative where I am using my Java and Spring boot skills and also React to enhance the spider screen for onboarding the FRI Reports to AWS. 
+
